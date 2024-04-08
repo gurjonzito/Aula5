@@ -1,0 +1,35 @@
+C:\SIPM123\Aula5\bin\Debug\Aula5.exe.config
+C:\SIPM123\Aula5\bin\Debug\Aula5.exe
+C:\SIPM123\Aula5\bin\Debug\Aula5.pdb
+C:\SIPM123\Aula5\obj\Debug\Aula5.csproj.AssemblyReference.cache
+C:\SIPM123\Aula5\obj\Debug\Aula5.csproj.SuggestedBindingRedirects.cache
+C:\SIPM123\Aula5\obj\Debug\Aula5.Form1.resources
+C:\SIPM123\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+C:\SIPM123\Aula5\obj\Debug\Aula5.csproj.GenerateResource.cache
+C:\SIPM123\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+C:\SIPM123\Aula5\obj\Debug\Aula5.exe
+C:\SIPM123\Aula5\obj\Debug\Aula5.pdb
+C:\SIPM123\Aula5\obj\Debug\Aula5.frmCadCliente.resources
+C:\POO\Aula5\bin\Debug\Aula5.exe.config
+C:\POO\Aula5\bin\Debug\Aula5.exe
+C:\POO\Aula5\bin\Debug\Aula5.pdb
+C:\POO\Aula5\obj\Debug\Aula5.csproj.AssemblyReference.cache
+C:\POO\Aula5\obj\Debug\Aula5.frmPrincipal.resources
+C:\POO\Aula5\obj\Debug\Aula5.frmCadCliente.resources
+C:\POO\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+C:\POO\Aula5\obj\Debug\Aula5.csproj.GenerateResource.cache
+C:\POO\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+C:\POO\Aula5\obj\Debug\Aula5.exe
+C:\POO\Aula5\obj\Debug\Aula5.pdb
+C:\Users\Alan Miguel\Downloads\Aula5\bin\Debug\Aula5.exe.config
+C:\Users\Alan Miguel\Downloads\Aula5\bin\Debug\Aula5.exe
+C:\Users\Alan Miguel\Downloads\Aula5\bin\Debug\Aula5.pdb
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.csproj.AssemblyReference.cache
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.frmPrincipal.resources
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.frmCadCliente.resources
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.csproj.GenerateResource.cache
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.exe
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.pdb
+C:\Users\Alan Miguel\Downloads\Aula5\obj\Debug\Aula5.frmCadProduto.resources
